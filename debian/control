@@ -1,0 +1,16 @@
+Source: holahuayra
+Section: unknown
+Priority: optional
+Maintainer: Huayra Devel <huayra-devel@listas.huayragnulinux.com.ar>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+Homepage: http://github.com/huayralinux/holahuayra
+Vcs-Git: http://github.com/huayralinux/pkg-holahuayra.git
+
+Package: holahuayra
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Paquete de prueba
+ Hola Huayra!
+ .
+ Este paquete es para hacer pruebas :-)

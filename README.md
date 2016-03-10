@@ -1,2 +1,3 @@
 # pkg-holahuayra
-Hola Huayra!
+
+Paquete para pruebas de repositorios.
